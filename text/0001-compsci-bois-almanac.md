@@ -112,4 +112,4 @@ Contributors:
 
 Stakeholders:
 
-- The Compsci Bys
+- The CompSci Bois
