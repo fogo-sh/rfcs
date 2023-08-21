@@ -32,6 +32,12 @@ wiki in this new more accessible to programmer format will encourage more people
 ["The Space Between Us"](https://goodenough.us/blog/2023-08-18-the-space-between-us/) is a good blog post about the
 creation of content to form 'identity anchors'.
 
+["File over app"](https://stephanango.com/file-over-app) gives rationale why having the underlying data the
+application stores as files.
+
+> _File over app is an appeal to tool makers: accept that all software is ephemeral, and give people ownership over
+> their data._
+
 # Drawbacks
 
 [drawbacks]: #drawbacks
