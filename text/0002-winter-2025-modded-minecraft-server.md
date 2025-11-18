@@ -32,13 +32,13 @@ Cheesetown, Stoneblock 2 with CSB, many previous servers.
 
 [unresolved-questions]: #unresolved-questions
 
-Will we do Stoneblock?
+None, we will do Stoneblock 4.
 
 # High-level technical overview
 
 [high-level-technical-overview]: #high-level-technical-overview
 
-Similar to Cheesetown, but modded server.
+Hosted on Jack's ThinkCentre, exposed via port 25575, making room for a future potential [TBD] entity server.
 
 # Involvement
 
@@ -46,8 +46,8 @@ Similar to Cheesetown, but modded server.
 
 **Server Owner/Admin:**
 
-- Riley (Hosting)
-- Jack (OP, similar access via Tailscale to node, similar to Cheesetown)
+- Jack (Hosting, OP)
+- Riley (OP)
 
 **Players:**
 
