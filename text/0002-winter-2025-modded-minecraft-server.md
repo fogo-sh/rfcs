@@ -1,5 +1,5 @@
 - Project / Feature Name: `winter-2025-modded-minecraft-server`
-- Start Date: 2025-01-XX
+- Start Date: 2025-11-XX
 - RFC PR: [fogo-sh/rfcs#0002](https://github.com/fogo-sh/rfcs/pull/0002)
 
 # Summary
