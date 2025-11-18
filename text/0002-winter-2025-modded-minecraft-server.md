@@ -38,7 +38,9 @@ None, we will do Stoneblock 4.
 
 [high-level-technical-overview]: #high-level-technical-overview
 
-Hosted on Jack's ThinkCentre, exposed via port 25575, making room for a future potential [TBD] entity server.
+Hosted on Jack's ThinkCentre, exposed via port 25585, with a `SRV` record setup such that `stoneblock.jackharrhy.com` will resolve to the correct address.
+
+https://mcsrvstat.us/server/stoneblock.jackharrhy.com
 
 # Involvement
 
